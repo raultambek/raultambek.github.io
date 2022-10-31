@@ -29,3 +29,9 @@
 <td>kasutavad C, C++, Scala, Java<td>kasutatakse keeltes nagu Python, PHP, Perl ja Ruby</tr>
 
 </table>
+
+img src=<img width="691" alt="Screenshot 2022-10-31 at 16 56 38" src="https://user-images.githubusercontent.com/117080434/199038859-89f8cfff-3fda-4f52-86f5-dc500f562021.png"> Tabel Githubist.
+
+
+
+
