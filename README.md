@@ -16,7 +16,9 @@
 
 <a href="https://en.wikipedia.org/wiki/Compiler"> Loe kompilaatorist.</a>
 
-img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Compiler.svg/660px-Compiler.svg.png)"> Ingliskeelne võrdlev tabel.
-
-
 <img width="593" alt="Screenshot 2022-10-31 at 14 50 50" src="https://user-images.githubusercontent.com/117080434/199012115-3a1221f9-c96e-4875-9ae4-5d417dbfcb0f.png"> Ingliskeelne võrdlev tabel.
+
+<table>
+   <tr><td>Kompilaator</td>käsitleb tervet programmi korraga<td>tekitab vahepealse masinkoodi</td>sobib paremini riistvara keskkonda<td>kasutavad C, C++, Scala, Java</tr>
+   <tr><td>Impretaator</td>käsitleb ühte rida korraga<td>ei käsitle kunagi masinkeelt</td>sobib eelkõige tarkvara arenduseks<td>kasutatakse keeltes nagu Python, PHP, Perl aj Ruby</tr>      
+</table>
