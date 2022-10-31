@@ -4,13 +4,14 @@
 <h1>Kompilaator vs. interpretaator</h1>
 
 <h3>tk:222421iaab</h3>
-<a href="https://taltech.ee/"> Taltechi</a>
+<a href="https://taltech.ee/"> Taltech</a>
 
 </body>
 </html>
 
 
-   Interpretaator on arvutiprogramm, mida kasutakse programmikoodi käivitamiseks <b>ilma masinkoodi kompilleerimata</b>. Kompilaatori ja interpretaatori erinevus on tihti hägune. Mõned programmeerimiskeeled kasutavad nii kompileerimist kui interpreteerimist. Kompilaator on arvutiprogramm, mis tõlgib enamasti kõrgema lähtekeele teise madalamasse keelde, kas masinkoodi või assamblerkeelde.
+   Interpretaator on arvutiprogramm, mida kasutakse programmikoodi käivitamiseks <b>ilma masinkoodi kompileerimata</b>. Kompilaatori ja interpretaatori erinevus on tihti hägune. Mõned programmeerimiskeeled kasutavad nii kompileerimist kui interpreteerimist. 
+   Kompilaator on arvutiprogramm, mis tõlgib enamasti kõrgema lähtekeele teise madalamasse keelde, kas masinkoodi või assamblerkeelde.
 
 <a href="https://en.wikipedia.org/wiki/Interpreter_(computing)"> Loe interpretaatorist.</a>
 
@@ -31,4 +32,5 @@
 <td>kasutavad C, C++, Scala, Java<td>kasutatakse keeltes nagu Python, PHP, Perl ja Ruby</tr>
 
 </table>
+
 
