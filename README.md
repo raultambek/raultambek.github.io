@@ -19,6 +19,7 @@
 <img width="700" src="https://user-images.githubusercontent.com/117080434/199012115-3a1221f9-c96e-4875-9ae4-5d417dbfcb0f.png"> Ingliskeelne võrdlev tabel.
 
 
+<img width="700" src="https://user-images.githubusercontent.com/117080434/199038859-89f8cfff-3fda-4f52-86f5-dc500f562021.png"> Tabel Githubist.
 
 
 <table>
@@ -30,11 +31,4 @@
 <td>kasutavad C, C++, Scala, Java<td>kasutatakse keeltes nagu Python, PHP, Perl ja Ruby</tr>
 
 </table>
-
-
-
-<img width="700" src="https://user-images.githubusercontent.com/117080434/199038859-89f8cfff-3fda-4f52-86f5-dc500f562021.png"> Tabel Githubist.
-
-
-
 
