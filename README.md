@@ -1,10 +1,10 @@
-<!DOCTYPE html>
 <html>
 <body>
 
 <h1>Kompilaator vs. interpretaator</h1>
 
 <h3>tk:222421iaab</h3>
+<a href="https://taltech.ee/"> Taltechi</a>
 
 </body>
 </html>
