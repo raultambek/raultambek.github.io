@@ -17,8 +17,8 @@
 <a href="https://en.wikipedia.org/wiki/Compiler"> Loe kompilaatorist.</a>
 
 img
-hight=150px
-width=170px
+hight="150px"
+width="170px"
 src="https://1.bp.blogspot.com/-egAdPhCGk8A/YE6bUM1peKI/AAAAAAAABHg/7u9F6Pi1hAYN_JLwt5RSSZ3-hsaM4c9qACLcBGAsYHQ/s0/Difference%2BBetween%2BCompiler%2Band%2BInterpreter.png> 
 
 Ingliskeelne võrdlev tabel.
