@@ -16,7 +16,7 @@
 
 <a href="https://en.wikipedia.org/wiki/Compiler"> Loe kompilaatorist.</a>
 
-<img width="593" alt="Screenshot 2022-10-31 at 14 50 50" src="https://user-images.githubusercontent.com/117080434/199012115-3a1221f9-c96e-4875-9ae4-5d417dbfcb0f.png"> Ingliskeelne võrdlev tabel.
+<img src="https://user-images.githubusercontent.com/117080434/199012115-3a1221f9-c96e-4875-9ae4-5d417dbfcb0f.png"> Ingliskeelne võrdlev tabel.
 
 
 
@@ -30,7 +30,7 @@
 
 </table>
 
-img src=<img width="691" alt="Screenshot 2022-10-31 at 16 56 38" src="https://user-images.githubusercontent.com/117080434/199038859-89f8cfff-3fda-4f52-86f5-dc500f562021.png"> Tabel Githubist.
+<img src="https://user-images.githubusercontent.com/117080434/199038859-89f8cfff-3fda-4f52-86f5-dc500f562021.png"> Tabel Githubist.
 
 
 
