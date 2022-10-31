@@ -20,6 +20,7 @@
 
 
 
+
 <table>
    
 <td>Kompilaator<td/>Interpretaator</tr>
@@ -28,7 +29,7 @@
 <td>sobib paremini riistvara keskkonda<td>sobib paremini tarkvara arenduseks</tr>
 <td>kasutavad C, C++, Scala, Java<td>kasutatakse keeltes nagu Python, PHP, Perl ja Ruby</tr>
 
-<table/>
+</table>
 
 
 
