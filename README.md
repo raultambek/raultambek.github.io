@@ -18,6 +18,5 @@
 
 img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Compiler.svg/660px-Compiler.svg.png)"> Ingliskeelne võrdlev tabel.
 
-img src="https://1.bp.blogspot.com/-egAdPhCGk8A/YE6bUM1peKI/AAAAAAAABHg/7u9F6Pi1hAYN_JLwt5RSSZ3-hsaM4c9qACLcBGAsYHQ/s0/Difference%2BBetween%2BCompiler%2Band%2BInterpreter.png"> Ingliskeelne võrdlev tabel.
 
-
+<img width="593" alt="Screenshot 2022-10-31 at 14 50 50" src="https://user-images.githubusercontent.com/117080434/199012115-3a1221f9-c96e-4875-9ae4-5d417dbfcb0f.png"> Ingliskeelne võrdlev tabel.
