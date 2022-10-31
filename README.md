@@ -5,7 +5,8 @@
 <h1>Kompilaator vs. interpretaator</h1>
 
 <h3>tk:222421iaab</h3>
-
+td {text_aligh: center;}
+   
 </body>
 </html>
 
@@ -20,7 +21,10 @@
 
 <table>
    
-<td/>Kompilaator<td>käsitleb tervet programmi korraga<td>tekitab vahepealse masinkoodi<td>sobib paremini riistvara keskkonda<td>kasutavad C, C++, Scala, Java</tr>
-<td/>Impretaator<td>käsitleb ühte rida korraga<td>ei käsitle kunagi masinkeelt<td>sobib eelkõige tarkvara arenduseks<td>kasutatakse keeltes nagu Python, PHP, Perl ja Ruby</tr>  
+<td>Kompilaator<td/>Interpretaator</tr>
+<td>käsitleb tervet programmi korraga<td>käsitleb ühte rida korraga</tr>
+<td>tekitab vahepealse masinkoodi<td>ei tekita kunagi vahepealset masinkoodi</tr>
+<td>sobib paremini riistvara keskkonda<td>sobib paremini tarkvara arenduseks</tr>
+<td>kasutavad C, C++, Scala, Java<td>kasutatakse keeltes nagu Python, PHP, PERl ja Ruby</tr>
 
 </table>
